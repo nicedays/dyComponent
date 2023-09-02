@@ -13,6 +13,7 @@
 				MyComponent:() => import('../components/test.vue')
 			}
 		}
+		
 	}
 </script>
 
